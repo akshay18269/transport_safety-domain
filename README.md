@@ -1,0 +1,9 @@
+DRIVE LINK - https://drive.google.com/drive/folders/1RY8CZtioErqBfjO0E2D3Bsib82kXF_FS
+
+This project focuses on analyzing and understanding road traffic accidents by combining exploratory data analysis with machine learning techniques. 
+The problem statement addresses key questions such as identifying accident trends over the years and seasonal patterns, determining which local authority districts have the highest accident rates and their characteristics, analyzing how weather and road surface conditions impact accident severity, studying accident distribution across days of the week, and examining whether certain road types are associated with more severe accidents. 
+The dataset used in this project contains detailed attributes including accident identifiers, accident date, day of the week, junction control and junction details, accident severity, geographic coordinates, lighting conditions, local authority district, carriageway hazards, number of casualties, number of vehicles involved, police force, road surface conditions, and road type. 
+In this project, I performed data cleaning and preprocessing, handled missing values, conducted exploratory data analysis using visualizations to uncover trends and patterns, performed feature selection and encoding, and trained multiple machine learning models such as Logistic Regression, Decision Tree, Random Forest, and XGBoost. 
+Model performance was evaluated using metrics like ROC-AUC, Precision, Recall, F1-score, and Confusion Matrix to identify the best-performing model, along with feature importance analysis to understand key contributing factors. 
+
+**In conclusion, the project demonstrates how combining data analysis with predictive modeling can provide actionable insights into accident trends and severity, and shows that ensemble models deliver more accurate and reliable predictions, supporting better decision-making for road safety improvement and accident prevention.**
