@@ -1,6 +1,7 @@
 DRIVE LINK - https://drive.google.com/drive/folders/1RY8CZtioErqBfjO0E2D3Bsib82kXF_FS
 
 
+
 ---Road Traffic Accident Severity Analysis
 
 Exploratory data analysis and machine learning project on UK road traffic accident data, predicting **Accident Severity** (Slight / Serious / Fatal) from road, environmental, and vehicle-related factors.
